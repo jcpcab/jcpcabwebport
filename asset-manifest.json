@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/jcpcabwebport/static/css/main.073c9b0a.css",
+    "main.js": "/jcpcabwebport/static/js/main.83c2cbef.js",
+    "static/js/787.114b33ca.chunk.js": "/jcpcabwebport/static/js/787.114b33ca.chunk.js",
+    "static/media/logo.svg": "/jcpcabwebport/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/jcpcabwebport/index.html",
+    "main.073c9b0a.css.map": "/jcpcabwebport/static/css/main.073c9b0a.css.map",
+    "main.83c2cbef.js.map": "/jcpcabwebport/static/js/main.83c2cbef.js.map",
+    "787.114b33ca.chunk.js.map": "/jcpcabwebport/static/js/787.114b33ca.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.83c2cbef.js"
+  ]
+}
